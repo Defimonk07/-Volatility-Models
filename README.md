@@ -4,6 +4,7 @@ This repository contains implementations of various volatility models:
 
 - **GARCH**: Generalized Autoregressive Conditional Heteroskedasticity
 - **Heston**: Heston Stochastic Volatility Model
+- 
  **Future Plans To Add**:
 - **Dupire**: Dupire Local Volatility Model
 - **SABR**: Stochastic Alpha Beta Rho Model
